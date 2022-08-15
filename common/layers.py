@@ -1,4 +1,3 @@
-from tkinter.messagebox import NO
 import numpy as np
 
 from common.functions import cross_entropy_error, softmax
